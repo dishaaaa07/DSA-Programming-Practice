@@ -7,7 +7,7 @@
  * https://codeforces.com/contest/231/problem/A
  */
 import java.util.*;
-public class Solution
+public class Team
 {
     public static void main(String[] args)
     {

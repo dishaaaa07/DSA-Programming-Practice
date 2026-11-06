@@ -6,7 +6,7 @@
  * Problem Link:
  * https://leetcode.com/problems/fizz-buzz/
  */
-class Solution {
+class fizzbuzz {
     public List<String> fizzBuzz(int n) {
         String[] arr=new String[n];
         for(int i=1;i<=n;i++)

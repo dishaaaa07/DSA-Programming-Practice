@@ -7,7 +7,7 @@
  * https://codeforces.com/contest/116/problem/A
  */
 import java.util.*;
-public class Main
+public class Tram
 {
 	public static void main(String[] args) {
 		Scanner sc=new Scanner(System.in);
